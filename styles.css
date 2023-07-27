@@ -13,7 +13,11 @@ h2 {
 a {
     color:rosybrown; font-family: 'Lumanosimo', cursive;
 }
-nav {background-color: cornsilk;}
-nav a {color: whitesmoke;}
-nav {color: whitesmoke;} 
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: mediumaquamarine;
+}
+nav a {color: rgb(87, 19, 19);}
+nav {color:rgb(87, 19, 19);} 
 nav a:hover {background-color: black;}
