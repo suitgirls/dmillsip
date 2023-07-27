@@ -20,9 +20,9 @@ nav {
 }
 nav a {color: rgb(87, 19, 19);}
 nav {color:rgb(87, 19, 19);} 
-nav a:hover {background-color: black;}
+nav a:hover {background-color: white;}
 div {
-    border: 1px solid black;
+    border: 1px solid mediumaquamarine;
     margin:30px;
     padding: 50px;
     background-color: white;
