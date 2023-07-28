@@ -8,7 +8,7 @@ h1 {
     color:mediumaquamarine; background-color: antiquewhite; font-family: 'Lumanosimo', cursive;
 }
 h2 {
-    color: cornflowerblue; font-family: 'Lumanosimo', cursive;
+    color: silver; font-family: 'Lumanosimo', cursive;
 }
 a {
     color:rosybrown; font-family: 'Lumanosimo', cursive;
@@ -22,7 +22,7 @@ nav a {color: rgb(87, 19, 19);}
 nav {color:rgb(87, 19, 19);} 
 nav a:hover {background-color: white;}
 div {
-    border: 1px solid mediumaquamarine;
+    border: 20px solid mediumaquamarine;
     margin:30px;
     padding: 50px;
     background-color: white;
